@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi I'm Siri 👋
 
+I am currently a grad student at Northeastern University, Boston, expected to graduate in May 2025.
+
+I am also interning at Quickbase as a Software Developer, working on React, GraphQL, and AWS.
 <!--
 **sirigowda204/sirigowda204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
