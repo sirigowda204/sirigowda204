@@ -1,19 +1,27 @@
-## Hi I'm Siri 👋
+### Hey there! I am Siri Srinivas. :wave: 
 
-I am currently a grad student at Northeastern University, Boston, expected to graduate in May 2025.
+**I am a Master's student in Computer Science at Northeastern University, and a former software engineering co-op at Quickbase.**
 
-I am also interning at Quickbase as a Software Developer, working on React, GraphQL, and AWS.
-<!--
-**sirigowda204/sirigowda204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My primary experience spans across full-stack development, distributed systems, and cloud computing.  
+I am passionate about creating scalable, user-centric solutions, and have professional experience  
+working on Java (Spring Boot) with MySQL, PostgreSQL, and MongoDB on the back end, 
+as well as JavaScript (React.js) on the front end.  
 
-Here are some ideas to get you started:
+Other areas I’ve explored include machine learning, data science, security, and blockchain development, 
+designing interactive web experiences with Greensock, and implementing algorithms in Java and Python.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am **actively looking for full-time Software Engineer roles or internships** starting May 2025.  
+I have the option to graduate in **Summer 2025** or **December 2025**, depending on opportunities and commitments.  
+
+You can check out my portfolio at [sirisrinivas.com](https://www.sirisrinivas.com/) or reach me via one of the following:  
+[![LinkedIn][ic-linkedin-with-bg]][linkedin] &nbsp; [![GitHub][ic-github-with-bg]][github] &nbsp; [![Mail][ic-mail-with-bg]][mail]  
+
+<!-- Social Icons -->
+[ic-linkedin-with-bg]: https://raw.githubusercontent.com/pavanpej/pavanpej/master/icons/linkedin-with-bg.svg
+[ic-github-with-bg]: https://raw.githubusercontent.com/pavanpej/pavanpej/master/icons/github-fill.svg
+[ic-mail-with-bg]: https://raw.githubusercontent.com/pavanpej/pavanpej/master/icons/mail-with-bg.svg
+
+<!-- Social Links -->
+[linkedin]: https://www.linkedin.com/in/sirisrinivasa/
+[github]: https://github.com/sirigowda204
+[mail]: mailto:srinivas.sir@northeastern.edu
