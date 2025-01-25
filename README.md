@@ -17,8 +17,12 @@
 - **Full-Stack Development**:  
   - Back End: Java (Spring Boot), MySQL, PostgreSQL, MongoDB  
   - Front End: JavaScript, React.js, Angular  
-- **Distributed Systems** and **Cloud Computing**  
-- **Interactive Web Design** with Greensock, Three.js  
+- **Distributed Systems** and **Cloud Computing**
+- **Machine Learning**
+  - MLFlow, LLMs, Tensorflow, PyTorch, Time Series
+- **Interactive Web Design** with Greensock, Three.js
+
+🎬 [YouTube Channel](https://www.youtube.com/@sirisrinivasgowda)
 
 ### 🌱 Additional Interests  
 
