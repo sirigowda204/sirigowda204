@@ -1,34 +1,29 @@
-### Hey there! I am Siri Srinivas. :wave:
+### Hey there! I am Siri :wave:
 
-**Master's student in Computer Science (MSCS) @ Northeastern University**  
+**Software Engineer @ Wayfair**  
+*Cart and Checkout Team*
+
+**Master of Science in Computer Science (MSCS) @ Northeastern University**  
 *Former Software Engineering Co-op @ Quickbase*  
 *Former Technology Consultant Intern @ PwC*  
 *TA for Scalable Distributed Systems*  
 
----
-
-🔍 **Actively seeking full-time Software Engineer roles or internships starting May 2025**  
-🎓 **Graduation options**: Summer 2025 or December 2025  
-
----
 
 ### 🛠️ Areas of Expertise  
 
 - **Full-Stack Development**:  
   - Back End: Java (Spring Boot), MySQL, PostgreSQL, MongoDB  
-  - Front End: JavaScript, React.js, Angular  
+  - Front End: JavaScript, React.js 
 - **Distributed Systems** and **Cloud Computing**
 - **Machine Learning**
-  - MLFlow, LLMs, Tensorflow, PyTorch, Time Series
+  - MLFlow, LLMs, Time Series
 - **Interactive Web Design** with Greensock, Three.js
 
 🎬 [YouTube Channel](https://www.youtube.com/@sirisrinivasgowda)
 
 ### 🌱 Additional Interests  
 
-- Machine Learning & Data Science  
-- Blockchain Development & Security  
-- Algorithm Design (Java, Python)  
+- Mentoring and teaching 
 
 ---
 
